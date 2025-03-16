@@ -41,12 +41,7 @@
 ## 🛠️ Languages and Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,firebase,git,github,docker,aws,vscode" alt="Tech Stack" />
-</p>
-
-### 🚀 DevOps & Cloud  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,vercel,netlify,nginx,linux" alt="Cloud & DevOps" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,firebase,git,github,vscode" alt="Tech Stack" />
 </p>
 
 ---
