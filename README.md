@@ -70,9 +70,13 @@
 ---
 
 ## 🎵 Currently Listening To  
+### 🎵 Now Playing: [Perfect - Ed Sheeran](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v)
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31gu7k47ixhryjz3gx7sjdwkxscu&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  <a href="https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v" target="_blank">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735a26bb1ff3c0cfc978c87b84" width="300" height="300" alt="Perfect by Ed Sheeran">
+  </a>
 </p>
+
 
 ---
 
