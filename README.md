@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasad Shaswat</h1>
-<h3 align="center">Full-Stack MERN Developer | Open-Source Contributor | Tech Enthusiast</h3>
+<h3 align="center">🚀 Full-Stack MERN Developer | Open-Source Contributor | Tech Enthusiast 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shaswat2031&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shaswat2031&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shaswat2031&row=1&column=7&margin-w=15&theme=onedark" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -28,60 +28,71 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on **Next.js Wallpaper Website with AdSense & Firebase authentication**
-- 👯 I’m looking to collaborate on **Open-source projects related to web development**
-- 🤝 I’m looking for help with **Advanced Cloud Deployment (AWS/Azure)**
-- 👨‍💻 All of my projects are available at [Prasadshaswat.tech](https://Prasadshaswat.tech)
-- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@prasadshaswat)
-- ⚡ Fun fact: **I can spend hours debugging but still love coding!**
+## 🚀 About Me  
+- 🔭 Currently working on **Next.js Wallpaper Website with AdSense & Firebase authentication**  
+- 👯 Looking to collaborate on **Open-source projects related to web development**  
+- 🤝 Need help with **Advanced Cloud Deployment (AWS/Azure)**  
+- 🎯 2025 Goal: **Contribute to 50+ open-source projects & launch my startup 🚀**  
+- 📖 Always learning **Backend Scaling, AI integrations & Serverless architectures**  
+- ⚡ Fun fact: **I can spend hours debugging but still love coding!**  
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,firebase,git,github,docker,aws,vscode" alt="Tech Stack" />
+</p>
+
+### 🚀 DevOps & Cloud  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,vercel,netlify,nginx,linux" alt="Cloud & DevOps" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaswat2031&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="450px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shaswat2031&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="450px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaswat2031&theme=tokyonight" alt="GitHub Streak" width="450px"/>
 </p>
 
 ---
 
-### 🌟 Most Used Languages
+## 🚀 Top Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaswat2031&layout=compact&theme=tokyonight" alt="Top Languages" width="450px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaswat2031&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" width="450px"/>
 </p>
 
 ---
 
-### 📫 Connect With Me
+## 🎯 Coding Activity  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaswat2031&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🎵 Currently Listening To  
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31gu7k47ixhryjz3gx7sjdwkxscu&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+</p>
+
+---
+
+## 📫 Connect With Me  
 <p align="center">
   <a href="https://twitter.com/shaswat2031" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40"/>
+    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" width="40"/>
   </a>
   <a href="https://linkedin.com/in/shaswat-prasad" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40"/>
   </a>
   <a href="https://hashnode.com/@prasadshaswat" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="40" width="40"/>
+    <img align="center" src="https://skillicons.dev/icons?i=hashnode" alt="Hashnode" height="40" width="40"/>
   </a>
   <a href="https://www.leetcode.com/prasadshaswat9265" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40"/>
+    <img align="center" src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40" width="40"/>
   </a>
 </p>
