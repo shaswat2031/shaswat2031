@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasad Shaswat</h1>
-<h3 align="center">🚀 Full-Stack MERN Developer | Open-Source Contributor | Tech Enthusiast 🚀</h3>
+<h3 align="center">🚀 Full-Stack MERN Developer | Open-Source Contributor | Tech Enthusiast �</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shaswat2031&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -28,17 +28,16 @@
 
 ---
 
-## 🚀 About Me  
-- 🔭 Currently working on **Next.js Wallpaper Website with AdSense & Firebase authentication**  
-- 👯 Looking to collaborate on **Open-source projects related to web development**  
-- 🤝 Need help with **Advanced Cloud Deployment (AWS/Azure)**  
-- 🎯 2025 Goal: **Contribute to 50+ open-source projects & launch my startup 🚀**  
-- 📖 Always learning **Backend Scaling, AI integrations & Serverless architectures**  
-- ⚡ Fun fact: **I can spend hours debugging but still love coding!**  
+## 🚀 **About Me**  
+- 🔭 Currently working on **Next.js Wallpaper Website with AdSense & Firebase authentication**.  
+- 🌱 Learning **Backend Scaling, AI integrations & Serverless architectures**.  
+- 👯 Looking to collaborate on **Open-source projects related to web development**.  
+- 🤝 Need help with **Advanced Cloud Deployment (AWS/Azure)**.    
+- ⚡ **Fun Fact**: I can spend hours debugging but still love coding!  
 
 ---
 
-## 🛠️ Languages and Tools  
+## 🛠️ **Languages and Tools**  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,firebase,git,github,vscode" alt="Tech Stack" />
@@ -46,7 +45,7 @@
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 **GitHub Stats**  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shaswat2031&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="450px"/>
@@ -55,32 +54,31 @@
 
 ---
 
-## 🚀 Top Languages  
+## 🚀 **Top Languages**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaswat2031&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" width="450px"/>
 </p>
 
 ---
 
-## 🎯 Coding Activity  
+## 🎯 **Coding Activity**  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaswat2031&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-## 🎵 Currently Listening To  
-### 🎵 Now Playing: [Perfect - Ed Sheeran](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v)
+## 🎵 **Currently Listening To**  
+### 🎵 Now Playing: [Perfect - Ed Sheeran](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v)  
 <p align="center">
   <a href="https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v" target="_blank">
     <img src="https://i.scdn.co/image/ab67616d0000b2735a26bb1ff3c0cfc978c87b84" width="300" height="300" alt="Perfect by Ed Sheeran">
   </a>
 </p>
 
-
 ---
 
-## 📫 Connect With Me  
+## 📫 **Connect With Me**  
 <p align="center">
   <a href="https://twitter.com/shaswat2031" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" width="40"/>
@@ -94,4 +92,13 @@
   <a href="https://www.leetcode.com/prasadshaswat9265" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40" width="40"/>
   </a>
+</p>
+
+## 💡 **Quote of the Day**  
+> "The only way to do great work is to love what you do." – Steve Jobs  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </p>
