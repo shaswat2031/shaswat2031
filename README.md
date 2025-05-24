@@ -35,22 +35,88 @@
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Rocket"> About Me
 
-<img align="right" height="270px" width="350px" alt="GIF" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
+<div align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" height="280px" align="right" alt="Coding Animation" />
+</div>
 
-- 🚀 Working on a **Next.js Wallpaper Website** with cool features
-- 🌱 Learning **Backend Scaling & AI Magic**
-- 👯 Looking for **Open-Source Adventure Buddies**
-- 🤝 Seeking wizards of **Cloud Deployment**
-- 📝 Sharing tales at [Hashnode](https://prasadshaswat.hashnode.dev)
-- 💬 Ask me about **React, Next.js, Node.js, MongoDB**
-- 📄 My story unfolds at [Portfolio](https://www.prasadshaswa.tech)
-- ⚡ Fun Fact: I solve bugs in my dreams too!
+<div style="display: inline-block; width: 60%;">
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+      <b>Working on:</b> A <span style="color:#FF6AC2">Next.js Wallpaper Website</span> with fancy features
+    </li>
+    <li>
+      <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="20"> 
+      <b>Learning:</b> Backend Scaling, AI/ML Integration, and Cloud Architecture
+    </li>
+    <li>
+      <img src="https://media.giphy.com/media/gFSQ0460vhNF0WZsP3/giphy.gif" width="20">
+      <b>Seeking:</b> Open-Source Collaboration Opportunities
+    </li>
+    <li>
+      <img src="https://media.giphy.com/media/JrZEc84OhBvHgAFZVu/giphy.gif" width="23">
+      <b>Cloud Skills:</b> AWS, Azure, GCP, and Serverless
+    </li>
+    <li>
+      <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="20">
+      <b>Blogging at:</b> <a href="https://prasadshaswat.hashnode.dev">Hashnode</a>
+    </li>
+    <li>
+      <img src="https://media.giphy.com/media/iJVKgczGK0u6EzQMOR/giphy.gif" width="25">
+      <b>Ask me about:</b> React, Next.js, Node.js, MongoDB
+    </li>
+    <li>
+      <img src="https://media.giphy.com/media/xTiTnCQ0iMYIuwXH6U/giphy.gif" width="25">
+      <b>Portfolio:</b> <a href="https://www.prasadshaswa.tech">View My Work</a>
+    </li>
+    <li>
+      <img src="https://media.giphy.com/media/l46CyJmS9KUbID2aQ/giphy.gif" width="20">
+      <b>Fun Fact:</b> I debug code in my dreams and wake up with solutions!
+    </li>
+  </ul>
+</div>
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/prasadshaswat">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  <a href="mailto:prasadshaswat@gmail.com">
+    <img src="https://img.shields.io/badge/Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
+  </a>
+</div>
 
 <details>
-  <summary>👨‍💻 My Coding Adventure</summary>
-  <p>
-    Once upon a time, a curious explorer discovered HTML & CSS. The journey led through forests of JavaScript, mountains of React, and oceans of Node.js. Many challenges were conquered, many projects were built, and the adventure continues every day with new technologies to master and problems to solve!
-  </p>
+  <summary><h3>👨‍💻 My Coding Adventure</h3></summary>
+  <div align="center">
+    <img src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" width="300" alt="Coding Journey" />
+    <blockquote>
+      Once upon a time, a curious explorer discovered HTML & CSS. The journey led through forests of JavaScript, mountains of React, and oceans of Node.js. Many challenges were conquered, many projects were built, and the adventure continues every day with new technologies to master and problems to solve!
+    </blockquote>
+    
+    <h4>Timeline:</h4>
+    <table align="center">
+      <tr>
+        <td>2019</td>
+        <td>Started with HTML, CSS, and basic JavaScript</td>
+      </tr>
+      <tr>
+        <td>2020</td>
+        <td>Learned React.js and built first web applications</td>
+      </tr>
+      <tr>
+        <td>2021</td>
+        <td>Mastered Node.js and MongoDB for full-stack development</td>
+      </tr>
+      <tr>
+        <td>2022</td>
+        <td>Explored Next.js, TypeScript, and cloud deployment</td>
+      </tr>
+      <tr>
+        <td>2023 - Present</td>
+        <td>Deep diving into AI integration, system design, and scalability</td>
+      </tr>
+    </table>
+  </div>
 </details>
 
 <div align="center">
@@ -243,18 +309,55 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30px" alt="Connect"> Let's Connect
+## <img src="https://res.cloudinary.com/dxzbyilnv/image/upload_v1748054957/fyikgqig4sjaedulgmwg.png" width="30px" alt="Cloud"> Cloudinary Image Optimization
 
 <div align="center">
-  <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="200px" alt="Connect" />
-</div>
-
-<div align="center">
-  <a href="https://twitter.com/shaswat2031"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010" /></a>
-  <a href="https://linkedin.com/in/shaswat-prasad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" /></a>
-  <a href="https://hashnode.com/@prasadshaswat"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=101010" /></a>
-  <a href="https://leetcode.com/prasadshaswat9265"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=101010" /></a>
-  <a href="mailto:prasadshaswat@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" /></a>
+  <h3>🖼️ Image Transformation & Optimization</h3>
+  
+  <img src="https://res.cloudinary.com/demo/image/upload/w_300,c_limit,q_auto/turtles.jpg" alt="Cloudinary Example" width="300px" />
+  
+  <p>👆 This image is served from Cloudinary with automatic optimizations</p>
+  
+  <table>
+    <tr>
+      <th>Original Image</th>
+      <th>Cloudinary Optimized</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width="150px" alt="Original">
+        <p>Size: ~20KB</p>
+      </td>
+      <td>
+        <img src="https://res.cloudinary.com/demo/image/upload/w_150,c_scale,f_auto,q_auto/v1582046286/react-logo_nljj70.png" width="150px" alt="Optimized">
+        <p>Size: ~8KB</p>
+      </td>
+    </tr>
+  </table>
+  
+  <h4>How to use in your projects:</h4>
+  
+  ```jsx
+  // In React/Next.js
+  import Image from 'next/image';
+  
+  function OptimizedImage() {
+    return (
+      <Image
+        src="https://res.cloudinary.com/your_cloud_name/image/upload/v1234567890/sample.jpg"
+        alt="Description"
+        width={300}
+        height={200}
+        // Apply transformations directly in the URL
+        // e.g., adding w_300,c_fill,g_auto,f_auto,q_auto to the path
+      />
+    );
+  }
+  ```
+  
+  <a href="https://cloudinary.com/documentation" target="_blank">
+    <img src="https://img.shields.io/badge/Learn%20More%20About%20Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary Docs" />
+  </a>
 </div>
 
 <div align="center">
