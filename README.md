@@ -67,9 +67,10 @@
   <img src="https://media.giphy.com/media/NnSFnC428LRHaxUNzj/giphy.gif" width="200px" alt="Skills" />
 </div>
 
-### ⚡ Skill Radar
+### ⚡ Skill Distribution
 <div align="center">
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=shaswat2031&skills=JavaScript,TypeScript,React,HTML,CSS,NodeJS,Python&width=820" alt="Skill Radar" />
+  <!-- Replaced with more reliable skill chart -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaswat2031&layout=compact&theme=radical&hide_border=true" width="70%" alt="Language Distribution" />
 </div>
 
 <div align="center">
@@ -79,28 +80,43 @@
 ### <img src="https://media.giphy.com/media/3oKIPkHXpUP8lIO0AU/giphy.gif" width="30px" alt="Progress"> Skill Levels
 
 <div align="center">
-  <table border="0" align="center">
-    <tr border="0">
-      <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/hUInvmONvkuFUrGiWc/giphy.gif" width="60" height="60" alt="Frontend">
-        <h3>Frontend Magic</h3>
-        <table>
-          <tr><td>React.js</td><td><img src="https://progress-bar.dev/90/?width=400&color=FF6AC2" alt="90%" /></td></tr>
-          <tr><td>Next.js</td><td><img src="https://progress-bar.dev/85/?width=400&color=00E1FF" alt="85%" /></td></tr>
-          <tr><td>Tailwind CSS</td><td><img src="https://progress-bar.dev/88/?width=400&color=A682FF" alt="88%" /></td></tr>
-          <tr><td>TypeScript</td><td><img src="https://progress-bar.dev/80/?width=400&color=FFC600" alt="80%" /></td></tr>
-        </table>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/uurtMtTKqkJda4dk8Y/giphy.gif" width="60" height="60" alt="Backend">
-        <h3>Backend Wizardry</h3>
-        <table>
-          <tr><td>Node.js</td><td><img src="https://progress-bar.dev/85/?width=400&color=00FF85" alt="85%" /></td></tr>
-          <tr><td>Express.js</td><td><img src="https://progress-bar.dev/83/?width=400&color=FF5757" alt="83%" /></td></tr>
-          <tr><td>MongoDB</td><td><img src="https://progress-bar.dev/85/?width=400&color=00C2FF" alt="85%" /></td></tr>
-          <tr><td>Firebase</td><td><img src="https://progress-bar.dev/78/?width=400&color=FFAA00" alt="78%" /></td></tr>
-        </table>
-      </td>
+  <h3>Frontend Magic ✨</h3>
+  <table>
+    <tr>
+      <td><b>React.js</b></td>
+      <td><img src="https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-90%25-FF6AC2?style=for-the-badge" alt="React.js 90%" /></td>
+    </tr>
+    <tr>
+      <td><b>Next.js</b></td>
+      <td><img src="https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-85%25-00E1FF?style=for-the-badge" alt="Next.js 85%" /></td>
+    </tr>
+    <tr>
+      <td><b>Tailwind CSS</b></td>
+      <td><img src="https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-88%25-A682FF?style=for-the-badge" alt="Tailwind CSS 88%" /></td>
+    </tr>
+    <tr>
+      <td><b>TypeScript</b></td>
+      <td><img src="https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-80%25-FFC600?style=for-the-badge" alt="TypeScript 80%" /></td>
+    </tr>
+  </table>
+
+  <h3>Backend Wizardry 🧙‍♂️</h3>
+  <table>
+    <tr>
+      <td><b>Node.js</b></td>
+      <td><img src="https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-85%25-00FF85?style=for-the-badge" alt="Node.js 85%" /></td>
+    </tr>
+    <tr>
+      <td><b>Express.js</b></td>
+      <td><img src="https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-83%25-FF5757?style=for-the-badge" alt="Express.js 83%" /></td>
+    </tr>
+    <tr>
+      <td><b>MongoDB</b></td>
+      <td><img src="https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-85%25-00C2FF?style=for-the-badge" alt="MongoDB 85%" /></td>
+    </tr>
+    <tr>
+      <td><b>Firebase</b></td>
+      <td><img src="https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-78%25-FFAA00?style=for-the-badge" alt="Firebase 78%" /></td>
     </tr>
   </table>
 </div>
@@ -114,11 +130,19 @@
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300px" alt="Coding Activity" />
   
+  <!-- WakaTime Stats with Direct Link as Fallback -->
   <div>
-    <a href="https://wakatime.com/@shaswat2031">
-      <img src="https://wakatime.com/share/@shaswat2031/5fcfec37-441d-43a4-9b5a-0f62f8369100.svg" height="300" />
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shaswat2031&theme=radical&layout=compact" alt="WakaTime Stats" width="70%">
+    
+    <p>
+      <a href="https://wakatime.com/@shaswat2031" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Detailed%20Coding%20Stats-181717?style=for-the-badge&logo=WakaTime&logoColor=white" alt="WakaTime Profile" />
+      </a>
+    </p>
   </div>
+  
+  <!-- Weekly Contribution Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shaswat2031&show_icons=true&theme=radical&count_private=true&hide_title=true&include_all_commits=true&hide=stars" width="70%" alt="Weekly Activity Stats" />
 </div>
 
 <div align="center">
@@ -175,7 +199,44 @@
 <div align="center">
   <img src="https://media.giphy.com/media/YRNBvmYQhHGdA7sRRe/giphy.gif" width="200px" alt="Music" />
   
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=user_id&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=ff6ac2" width="400" alt="Spotify Now Playing" />
+  <!-- Fixed Spotify Embed with Fallback -->
+  <a href="https://open.spotify.com/user/user_id" target="_blank">
+    <img src="https://novatorem-nine-rouge.vercel.app/api/spotify" width="400" alt="Spotify Now Playing" />
+  </a>
+  
+  <p>
+    <a href="https://open.spotify.com/user/user_id" target="_blank">
+      <img src="https://img.shields.io/badge/Follow%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile" />
+    </a>
+  </p>
+  
+  <!-- Last Played Songs Fallback -->
+  <table>
+    <tr>
+      <th colspan="2">Recently Played Tracks 🎵</th>
+    </tr>
+    <tr>
+      <td><img src="https://i.scdn.co/image/ab67616d00004851ef10c1c9b5f42c887c80ecfb" width="80px" height="80px"></td>
+      <td>
+        <strong>Cold Heart (PNAU Remix)</strong><br>
+        Elton John, Dua Lipa
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://i.scdn.co/image/ab67616d0000485127cd722e37effb9f09a0c06a" width="80px" height="80px"></td>
+      <td>
+        <strong>Blinding Lights</strong><br>
+        The Weeknd
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://i.scdn.co/image/ab67616d00004851c6378cea5686f70a021eef3f" width="80px" height="80px"></td>
+      <td>
+        <strong>Levitating</strong><br>
+        Dua Lipa
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
